@@ -1,1 +1,1 @@
- <script src="[the js file]"></script>
+ <script src="spell.min.js"></script>
